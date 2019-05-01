@@ -1,11 +1,16 @@
 _repo: Simla-Village-Tales-Or-Folk-Tales-from-the-Himalayas_58816
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58816-h/images/cover.jpg
 creator:
   author:
     agent_name: Dracott, Alice Elizabeth
     gutenberg_agent_id: '50168'
     url: http://www.gutenberg.org/2009/agents/50168
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58816#Simla-Village-Tales-Or-Folk-Tales-from-the-Himalayas
 gutenberg_issued: '2019-02-03'
 gutenberg_type: Text
 identifiers:
